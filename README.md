@@ -1,12 +1,13 @@
 # V16
 
-- Less config
-- Signals
-- RouteParams Inputbinding
 - Standalone
-- esbuild
+- Less config
+- Signals (Dev Preview)
+- RouteParams Inputbinding
+- GuardsFN
 - AngularLanguageService Autoimport from Template
 - inject
 - required Input
 - DestroyRef
 - Self-closing Tags
+- esbuild (Dev Preview)
